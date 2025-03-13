@@ -14,6 +14,7 @@ The Restaurant Billing System is a Python-based desktop application built with T
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/8b3069d5-ccc2-4680-b2af-c9507a057d77)
+![Screenshot 2025-03-13 234021](https://github.com/user-attachments/assets/406f3f07-e855-4f90-a18f-235fca4d9b52)
 
 
 
